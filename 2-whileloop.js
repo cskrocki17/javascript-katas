@@ -15,9 +15,11 @@ do{
 	else if(flavor == "strawberry"){
 		alert("Sorry, we're all out of "+flavor);
 	}
+	else if(flavor == "coffee"){
+		alert("No coffee allowed in school");
+	}
 	else{
 		alert("not a flavor");
 	}
 }
 while(flavor != "coffee");
-alert("No coffee allowed in school")
