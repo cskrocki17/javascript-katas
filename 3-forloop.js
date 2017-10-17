@@ -28,3 +28,4 @@ for (i = 1; i < 4; i++) {
 		alert("not a flavor");
 	}
 }
+
